@@ -15,7 +15,7 @@ Interactive UI: Smooth animations and user-friendly interface.
 Contact Integration: Directly connect with property agents or owners.
 
 ##Technologies Used
-Frontend: HTML, CSS (Plain CSS), JavaScript
+Frontend: React.js, HTML, CSS (Plain CSS), JavaScript
 
 Deployment: Cloudflare Pages
 
